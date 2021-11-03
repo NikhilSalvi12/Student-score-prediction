@@ -26,5 +26,6 @@ Dataset comprises of daily study hours of an student and the score the respectiv
 5. Q-Q plot
 
 # Inference Drawn:-
-Built a model with RMSE: 4.74, 
-The predicted score for the student that studies for 9.25 hours/day is 92.55 %
+Built a model with **RMSE : 4.74**, 
+
+The predicted score for the student that studies for **9.25** hours/day is **92.55 %**
